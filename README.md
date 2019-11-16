@@ -1,1 +1,1 @@
-# cody2028-github-io
+# cody2028.github.io
