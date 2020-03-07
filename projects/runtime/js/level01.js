@@ -33,7 +33,7 @@ var level01 = function (window) {
                 { "type": "reward", "x": 1200, "y": groundY - 130},
                 { "type": "reward", "x": 1800, "y": groundY - 130},
                  { "type": "reward", "x": 2800, "y": groundY - 130},
-                 { "type": "reward", "x": 4000, "y": groundY - 130}
+                 { "type": "reward", "x": 4200, "y": groundY - 130}
                 
             ]
         };
